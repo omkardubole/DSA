@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/omkardubole/DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/omkardubole/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/omkardubole/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/omkardubole/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/omkardubole/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/omkardubole/DSA/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/omkardubole/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/omkardubole/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/omkardubole/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/omkardubole/DSA/tree/master/0283-move-zeroes) |
