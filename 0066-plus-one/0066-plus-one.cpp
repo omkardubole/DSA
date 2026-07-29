@@ -10,8 +10,10 @@ public:
                 digits[i]++;
                 return digits;
             }
-
-            digits[i] = 0;
+            else {
+                digits[i] = 0;
+            }
+            
         }
 
         digits.insert(digits.begin(), 1);
