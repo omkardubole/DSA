@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/omkardubole/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/omkardubole/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/omkardubole/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/omkardubole/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/omkardubole/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/omkardubole/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkardubole/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -137,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/omkardubole/DSA/tree/master/0493-reverse-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/omkardubole/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/omkardubole/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
