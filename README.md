@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/omkardubole/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/omkardubole/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/omkardubole/DSA/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/omkardubole/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/omkardubole/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/omkardubole/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/omkardubole/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/omkardubole/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/omkardubole/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/omkardubole/DSA/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/omkardubole/DSA/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omkardubole/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
