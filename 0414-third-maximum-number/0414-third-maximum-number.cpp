@@ -1,30 +1,30 @@
 class Solution {
 public:
     int thirdMax(vector<int>& nums) {
-
+        int n = nums.size();
         long first = LONG_MIN;
         long second = LONG_MIN;
         long third = LONG_MIN;
 
-        for (int num : nums) {
+        for (int i=0; i<n; i++) {
 
             // Ignore duplicates
-            if (num == first || num == second || num == third)
+            if (nums[i] == first || nums[i] == second || nums[i] == third)
                 continue;
 
-            if (num > first) {
+            if (nums[i] > first) {
                 third = second;
                 second = first;
-                first = num;
+                first = nums[i];
             }
 
-            else if (num > second) {
+            else if (nums[i] > second) {
                 third = second;
-                second = num;
+                second = nums[i];
             }
 
-            else if (num > third) {
-                third = num;
+            else if (nums[i] > third) {
+                third = nums[i];
             }
         }
 
