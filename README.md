@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/omkardubole/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/omkardubole/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/omkardubole/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/omkardubole/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/omkardubole/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/omkardubole/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/omkardubole/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/omkardubole/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/omkardubole/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/omkardubole/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/omkardubole/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/omkardubole/DSA/tree/master/0493-reverse-pairs) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/omkardubole/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/omkardubole/DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/omkardubole/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/omkardubole/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/omkardubole/DSA/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omkardubole/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/omkardubole/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/omkardubole/DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/omkardubole/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/omkardubole/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/omkardubole/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omkardubole/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/omkardubole/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/omkardubole/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/omkardubole/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/omkardubole/DSA/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
