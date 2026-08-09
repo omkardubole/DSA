@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/omkardubole/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/omkardubole/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/omkardubole/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/omkardubole/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/omkardubole/DSA/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/omkardubole/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omkardubole/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/omkardubole/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/omkardubole/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/omkardubole/DSA/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/omkardubole/DSA/tree/master/0704-binary-search) |
 ## Binary Indexed Tree
 |  |
 | ------- |
