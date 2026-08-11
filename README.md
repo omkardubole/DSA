@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/omkardubole/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/omkardubole/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/omkardubole/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2187-minimum-time-to-complete-trips](https://github.com/omkardubole/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2965-find-missing-and-repeated-values](https://github.com/omkardubole/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/omkardubole/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/omkardubole/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/omkardubole/DSA/tree/master/0875-koko-eating-bananas) |
+| [2187-minimum-time-to-complete-trips](https://github.com/omkardubole/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 ## Binary Indexed Tree
 |  |
 | ------- |
