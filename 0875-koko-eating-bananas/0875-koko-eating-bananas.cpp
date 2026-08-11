@@ -1,36 +1,48 @@
 class Solution {
 public:
+
+    bool possibleHai(vector<int>& piles, long long mid, int h) {
+
+        long long hours = 0;
+
+        for(int p : piles) {
+
+            // Current pile ko speed mid se khane me
+            // kitne hours lagenge
+            hours += ceil((double)p / mid);
+        }
+
+        // Agar h hours ke andar finish ho sakta hai
+        return hours <= h;
+    }
+
+
     int minEatingSpeed(vector<int>& piles, int h) {
 
-        int low = 1;
-        int high = *max_element(piles.begin(), piles.end());
+        long long l = 1;
+        long long r = *max_element(piles.begin(), piles.end());
 
-        while(low <= high) {
+        int ans = 0;
 
-            int mid = (low + high) / 2;
+        while(l <= r) {
 
-            long long hours = 0;
+            long long mid = l + (r - l) / 2;
 
-            // Calculate total hours required at speed mid
-            for(int pile : piles) {
-                hours += (pile + mid - 1) / mid;
+            if(possibleHai(piles, mid, h)) {
+
+                // mid speed sufficient hai,
+                // aur slow speed try karo
+                ans = mid;
+                r = mid - 1;
             }
-
-            // Speed mid is enough
-            if(hours <= h) {
-
-                // Try to find an even smaller speed
-                high = mid - 1;
-            }
-
-            // Speed mid is too slow
             else {
 
-                // Increase the speed
-                low = mid + 1;
+                // mid speed insufficient hai,
+                // speed badhao
+                l = mid + 1;
             }
         }
 
-        return low;
+        return ans;
     }
 };
