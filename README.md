@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/omkardubole/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/omkardubole/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/omkardubole/DSA/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/omkardubole/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/omkardubole/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/omkardubole/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/omkardubole/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/omkardubole/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/omkardubole/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/omkardubole/DSA/tree/master/0414-third-maximum-number) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/omkardubole/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/omkardubole/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/omkardubole/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/omkardubole/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/omkardubole/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/omkardubole/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/omkardubole/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
