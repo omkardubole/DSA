@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/omkardubole/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/omkardubole/DSA/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/omkardubole/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/omkardubole/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2965-find-missing-and-repeated-values](https://github.com/omkardubole/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/omkardubole/DSA/tree/master/0443-string-compression) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/omkardubole/DSA/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/omkardubole/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/omkardubole/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2785-sort-vowels-in-a-string](https://github.com/omkardubole/DSA/tree/master/2785-sort-vowels-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkardubole/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/omkardubole/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/omkardubole/DSA/tree/master/0509-fibonacci-number) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/omkardubole/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2439-minimize-maximum-of-array](https://github.com/omkardubole/DSA/tree/master/2439-minimize-maximum-of-array) |
 ## Recursion
 |  |
