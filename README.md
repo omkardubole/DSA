@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/omkardubole/DSA/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/omkardubole/DSA/tree/master/0443-string-compression) |
 | [0944-delete-columns-to-make-sorted](https://github.com/omkardubole/DSA/tree/master/0944-delete-columns-to-make-sorted) |
+| [1657-determine-if-two-strings-are-close](https://github.com/omkardubole/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/omkardubole/DSA/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/omkardubole/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/omkardubole/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/omkardubole/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/omkardubole/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omkardubole/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/omkardubole/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/omkardubole/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2785-sort-vowels-in-a-string](https://github.com/omkardubole/DSA/tree/master/2785-sort-vowels-in-a-string) |
 ## Hash Table
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/omkardubole/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/omkardubole/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omkardubole/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/omkardubole/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [2965-find-missing-and-repeated-values](https://github.com/omkardubole/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/omkardubole/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/omkardubole/DSA/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/omkardubole/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1657-determine-if-two-strings-are-close](https://github.com/omkardubole/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 ## Simulation
 |  |
 | ------- |
