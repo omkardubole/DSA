@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/omkardubole/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/omkardubole/DSA/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/omkardubole/DSA/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/omkardubole/DSA/tree/master/0520-detect-capital) |
 | [0944-delete-columns-to-make-sorted](https://github.com/omkardubole/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1657-determine-if-two-strings-are-close](https://github.com/omkardubole/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/omkardubole/DSA/tree/master/1759-count-number-of-homogenous-substrings) |
