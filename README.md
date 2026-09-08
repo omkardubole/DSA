@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/omkardubole/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/omkardubole/DSA/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/omkardubole/DSA/tree/master/0443-string-compression) |
+| [0944-delete-columns-to-make-sorted](https://github.com/omkardubole/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/omkardubole/DSA/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/omkardubole/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/omkardubole/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/omkardubole/DSA/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/omkardubole/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/omkardubole/DSA/tree/master/0875-koko-eating-bananas) |
+| [0944-delete-columns-to-make-sorted](https://github.com/omkardubole/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/omkardubole/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/omkardubole/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/omkardubole/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -299,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/omkardubole/DSA/tree/master/0042-trapping-rain-water) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/omkardubole/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
