@@ -27,19 +27,20 @@ public:
 
     vector<string> findAllConcatenatedWordsInADict(vector<string>& words) {
 
+        int n = words.size();
+
         unordered_set<string> st(words.begin(), words.end());
 
         vector<string> result;
 
-        for(string word : words) {
+        for(int i=0; i<n; i++) {
 
-            st.erase(word);
+            string word = words[i];
 
             if(isConcatenated(word, st)) {
                 result.push_back(word);
             }
-
-            st.insert(word);
+ 
         }
 
         return result;
