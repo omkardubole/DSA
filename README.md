@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/omkardubole/DSA/tree/master/0520-detect-capital) |
 | [0944-delete-columns-to-make-sorted](https://github.com/omkardubole/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1544-make-the-string-great](https://github.com/omkardubole/DSA/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/omkardubole/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/omkardubole/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/omkardubole/DSA/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/omkardubole/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/omkardubole/DSA/tree/master/0042-trapping-rain-water) |
 | [1544-make-the-string-great](https://github.com/omkardubole/DSA/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/omkardubole/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -314,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/omkardubole/DSA/tree/master/0944-delete-columns-to-make-sorted) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/omkardubole/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
