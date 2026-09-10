@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/omkardubole/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/omkardubole/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/omkardubole/DSA/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/omkardubole/DSA/tree/master/0068-text-justification) |
 | [0093-restore-ip-addresses](https://github.com/omkardubole/DSA/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/omkardubole/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/omkardubole/DSA/tree/master/0205-isomorphic-strings) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/omkardubole/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/omkardubole/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/omkardubole/DSA/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/omkardubole/DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/omkardubole/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/omkardubole/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/omkardubole/DSA/tree/master/0078-subsets) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/omkardubole/DSA/tree/master/0068-text-justification) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/omkardubole/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/omkardubole/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/omkardubole/DSA/tree/master/1929-concatenation-of-array) |
