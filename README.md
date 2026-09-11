@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/omkardubole/DSA/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/omkardubole/DSA/tree/master/0520-detect-capital) |
 | [0944-delete-columns-to-make-sorted](https://github.com/omkardubole/DSA/tree/master/0944-delete-columns-to-make-sorted) |
+| [1021-remove-outermost-parentheses](https://github.com/omkardubole/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/omkardubole/DSA/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/omkardubole/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/omkardubole/DSA/tree/master/1657-determine-if-two-strings-are-close) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/omkardubole/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/omkardubole/DSA/tree/master/0042-trapping-rain-water) |
+| [1021-remove-outermost-parentheses](https://github.com/omkardubole/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/omkardubole/DSA/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/omkardubole/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/omkardubole/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/omkardubole/DSA/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/omkardubole/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/omkardubole/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Depth-First Search
 |  |
