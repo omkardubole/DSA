@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/omkardubole/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/omkardubole/DSA/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/omkardubole/DSA/tree/master/0520-detect-capital) |
+| [0796-rotate-string](https://github.com/omkardubole/DSA/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/omkardubole/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/omkardubole/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/omkardubole/DSA/tree/master/1544-make-the-string-great) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/omkardubole/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/omkardubole/DSA/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
