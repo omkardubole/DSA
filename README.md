@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/omkardubole/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/omkardubole/DSA/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/omkardubole/DSA/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/omkardubole/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/omkardubole/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/omkardubole/DSA/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/omkardubole/DSA/tree/master/0520-detect-capital) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/omkardubole/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/omkardubole/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/omkardubole/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/omkardubole/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/omkardubole/DSA/tree/master/0472-concatenated-words) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omkardubole/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/omkardubole/DSA/tree/master/1657-determine-if-two-strings-are-close) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/omkardubole/DSA/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/omkardubole/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/omkardubole/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/omkardubole/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/omkardubole/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omkardubole/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/omkardubole/DSA/tree/master/1657-determine-if-two-strings-are-close) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/omkardubole/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/omkardubole/DSA/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/omkardubole/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/omkardubole/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/omkardubole/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 ## Simulation
 |  |
@@ -368,4 +372,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/omkardubole/DSA/tree/master/0459-repeated-substring-pattern) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/omkardubole/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/omkardubole/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
