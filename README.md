@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/omkardubole/DSA/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/omkardubole/DSA/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/omkardubole/DSA/tree/master/0796-rotate-string) |
+| [0880-decoded-string-at-index](https://github.com/omkardubole/DSA/tree/master/0880-decoded-string-at-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/omkardubole/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/omkardubole/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/omkardubole/DSA/tree/master/1544-make-the-string-great) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/omkardubole/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/omkardubole/DSA/tree/master/0042-trapping-rain-water) |
+| [0880-decoded-string-at-index](https://github.com/omkardubole/DSA/tree/master/0880-decoded-string-at-index) |
 | [1021-remove-outermost-parentheses](https://github.com/omkardubole/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/omkardubole/DSA/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/omkardubole/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
