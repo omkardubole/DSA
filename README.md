@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/omkardubole/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/omkardubole/DSA/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/omkardubole/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/omkardubole/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/omkardubole/DSA/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/omkardubole/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/omkardubole/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -391,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/omkardubole/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/omkardubole/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
