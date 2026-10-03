@@ -11,19 +11,28 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
+
         ListNode* prev = NULL;
         ListNode* curr = head;
-        
+
         while(curr != NULL) {
-            ListNode* next = curr -> next;
 
-            curr -> next = prev;
+            // Current node ke next node ka address save kar rahe hain
+            // kyuki curr->next ko ab hum change karne wale hain
+            ListNode* next = curr->next;
 
+            // Current node ka arrow reverse karo
+            // Example: 1 -> 2  becomes  1 -> NULL
+            curr->next = prev;
+
+            // prev ko current node par le aao
             prev = curr;
+
+            // curr ko original next node par le jao
             curr = next;
-    }
+        }
 
+        // prev ab reversed list ka first node hai
         return prev;
-
     }
 };
