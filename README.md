@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/omkardubole/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/omkardubole/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/omkardubole/DSA/tree/master/0189-rotate-array) |
+| [0445-add-two-numbers-ii](https://github.com/omkardubole/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/omkardubole/DSA/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/omkardubole/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/omkardubole/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/omkardubole/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/omkardubole/DSA/tree/master/0042-trapping-rain-water) |
+| [0445-add-two-numbers-ii](https://github.com/omkardubole/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/omkardubole/DSA/tree/master/0844-backspace-string-compare) |
 | [0880-decoded-string-at-index](https://github.com/omkardubole/DSA/tree/master/0880-decoded-string-at-index) |
 | [1021-remove-outermost-parentheses](https://github.com/omkardubole/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/omkardubole/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/omkardubole/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/omkardubole/DSA/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/omkardubole/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/omkardubole/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/omkardubole/DSA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/omkardubole/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
