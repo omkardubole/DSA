@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/omkardubole/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/omkardubole/DSA/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/omkardubole/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/omkardubole/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/omkardubole/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/omkardubole/DSA/tree/master/0031-next-permutation) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/omkardubole/DSA/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/omkardubole/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/omkardubole/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/omkardubole/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/omkardubole/DSA/tree/master/0086-partition-list) |
